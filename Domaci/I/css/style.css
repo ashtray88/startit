@@ -1,0 +1,41 @@
+p {
+font-family: Arial, Verdana, sans-serif;}
+
+h1 {
+font-family: "Courier New", monospace;
+color: blue;
+text-transform: uppercase;
+}
+
+strong {	
+color: red;
+}
+
+#pesnik{
+ color: red;
+ margin: 0 ; 
+ padding: 0; 
+ text-align: center; 
+}
+
+body { 
+ margin: 0; 
+ padding: 0; 
+ text-align: center; 
+} 
+
+img {
+    border-radius: 30px;
+}
+
+span {
+	color: purple;
+}
+
+a:hover {
+	color: yellow;
+}
+.klasa {
+	font-weight:bolder;	
+}
+
