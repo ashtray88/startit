@@ -1,0 +1,50 @@
+header {
+	position: relative;
+}
+#Naslov {
+	font-family: "Brush Script MT", cursive;
+	margin-left:300px;
+	margin-right:310px;
+	position: relative;
+	text-transform: uppercase;
+	color: red;
+	font-style: oblique;
+}
+
+nav {
+	float: left;
+	margin-left:20px;
+	position:fixed;
+	list-style: none;
+	background-color:orange;
+	text-align: center;
+	border: 2px dashed red;
+
+}
+nav li {
+ display: inline-block;
+ margin-left: 10px;
+ margin-right: 20px;
+ background-color:orange;
+ padding: 5px 20px;
+ border: 1px dotted red;
+ border-radius: 10px;
+ font-family: Verdana, Tahoma, Sans-serif;
+ text-transform: uppercase;
+}
+
+nav li a{
+	font-style: normal;
+	font-size:20px;
+	color:black;
+
+}
+nav {
+	Clear:left;
+	}
+	
+article {
+	float:left;
+	margin-top: 100px ;
+	margin-left: 20px;
+}
