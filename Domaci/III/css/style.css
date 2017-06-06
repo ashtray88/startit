@@ -1,0 +1,63 @@
+body {
+	background-color: #ffcc5c;
+}
+h1 {
+	text-align: center;
+	font-family: 'Vibur', cursive;
+	color: red;
+	text-transform: uppercase;
+	
+}
+p {
+	font-family: 'Indie Flower', cursive;
+	font-weight: bolder;
+}
+img {float:left;
+	border-width: 1px;
+	border-color: red;
+	border: 1px;
+	width: 30%;
+	border-radius: 15px;
+	filter: grayscale(100%);
+}
+#prvi{
+	margin: 30px, 15px;
+	width: 50%;
+	float: left;	
+}
+.clear {
+	clear: both;
+}
+h2 {
+	text-align: center;
+	font-family: 'Vibur', cursive;
+	color:red;
+}
+
+table {
+	width: 50%;
+	text-align:	 center;
+	margin-left: auto;
+	margin-right: auto;
+	border:1px solid red;
+	font-family: 'Bubbler One', sans-serif; 
+	font-weight: bolder;  
+}
+#postava {
+	background-color: #4682B4;
+	 
+}
+
+td, th{border: none;
+}
+
+footer {
+	float: right;
+	font-weight: bolder;
+	margin-bottom:0;
+
+}
+tr:nth-child(even) {
+    background-color: #4682B4;
+}
+
